@@ -2,7 +2,7 @@ var config = {
    entry: './App/main.js',
 	
    output: {
-      path:'./public',
+      path:'./Index',
       filename: 'bundle.js',
    },
 	
