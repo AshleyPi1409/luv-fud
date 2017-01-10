@@ -4,6 +4,7 @@
   "description": "How I love food",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js"
   },
   "author": "Bao An",
   "license": "ISC",
