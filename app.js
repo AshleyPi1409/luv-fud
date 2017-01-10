@@ -9,6 +9,6 @@ app.listen(app.get('port'), function () {
 });
 
 
-app.get('/',function (req, res) {
+app.get('*',function (req, res) {
   res.sendFile(__dirname + '/Index/index.html');
 });
