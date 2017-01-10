@@ -4,7 +4,6 @@
   "description": "How I love food",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server --hot"
   },
   "author": "Bao An",
   "license": "ISC",
